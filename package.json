@@ -1,6 +1,6 @@
 {
   "name": "local-ai-reviewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🔒 Privacy-first AI code reviewer using local LLM models. Zero data transmission, 100% offline code analysis for security, performance, and bugs. Works with Ollama!",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
